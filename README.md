@@ -40,13 +40,13 @@ The stable release can be found in the "master" branch, while testing & developm
 
 ## how to get help
 
-OpenFRM is provided as-is. A manual is available at [MOBA.coop](www.moba.coop).
+OpenFRM is provided as-is. A manual is available at [MOBA.coop](https://www.moba.coop/).
 
 You can report issues here on GitHub. If you need to contact the coordinators for other reasons, use: openfrm@moba.coop
 
 ## initial development
 
-OpenFRM has been initiated by [STEALTH.unlimited](www.stealth.ultd.net) and the team of [Ko Gradi Grad (Who Builds the City, Belgrade)](https://www.kogradigrad.org), and collectively tested and reviewed within the [MOBA network](https://www.moba.coop). [Creative Industries Fund NL](https://stimuleringsfonds.nl/en/) has provided funding to develop it as a tool for the wider community of emerging housing initiatives and co-operatives. It is open source, provided 'as-is', and you can tweak it to fit your purpose.
+OpenFRM has been initiated by [STEALTH.unlimited](www.stealth.ultd.net) and the team of [Ko Gradi Grad (Who Builds the City, Belgrade)](https://www.kogradigrad.org/), and collectively tested and reviewed within the [MOBA network](https://www.moba.coop/). [Creative Industries Fund NL](https://stimuleringsfonds.nl/en/) has provided funding to develop it as a tool for the wider community of emerging housing initiatives and co-operatives. It is open source, provided 'as-is', and you can tweak it to fit your purpose.
 
 
 
