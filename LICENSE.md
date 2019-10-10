@@ -1,4 +1,4 @@
-#OpenFRM is licensed as CC BY-SA 4.0
+OpenFRM is licensed as CC BY-SA 4.0
 
 Creative Commons Attribution-ShareAlike 4.0 International Public License
 
