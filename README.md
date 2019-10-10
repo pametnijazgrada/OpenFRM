@@ -13,12 +13,18 @@ The result is a collection of sheets detailing the different categories of costs
 
 ## - why it is relevant
 
-Initiating, constructing and operating a multi-apartment building is a daunting task. Not only due to the wealth of issues to be taken into account, but equally because envisioning and testing different scenarios is a highly complex endeavour. HOwever, **it is exactly with this "design" of parameters that a group of residents gains the power over their future housing reality.** Thus, OpenFRM has come to life to aid this ambition.
+Initiating, constructing and operating a multi-apartment building is a daunting task. Not only due to the wealth of issues to be taken into account, but equally because envisioning and testing different scenarios is a highly complex endeavour. However, **it is exactly with this "design" of parameters that a group of residents gains the power over their future housing reality.** Thus, OpenFRM has come to life to aid this ambition.
 
-## - how the OpenFRM should be installed (LibreOffice)
+## - how OpenFRM should be installed
 
+The tool can be downloaded directly from this repository, or as a zip package (including additional documantation) from the MOBA.coop website. It comes in the form of an .ods file (OpenDocument Spreadsheet file).
 
-- basic info about the sections of the sheet
+You can open the .ods file with LibreOffice or any compatible tool.
+
+## - about the sections of the OpenFRM spreadsheet
+
+OpenFRM is built around a spreadsheet. When you open the file, you arrive at the landing page. In the menu bar in the bottom you will apart from the Landing Page find 6 different sections (“tabs”): Inputs / Outputs, Design, Build, Finance, Maintain & Operate and finally the Life Cycle Cost Analysis (LCCA). By clicking the different tabs, you can navigate through the document.
+
 - use of input/output fields
 - warning about links that can be ‘corrupted’ when making changes, instructions how to handle this.
 - how to get help
