@@ -17,7 +17,7 @@ Initiating, constructing and operating a multi-apartment building is a daunting 
 
 ## how OpenFRM is installed
 
-The tool can be downloaded directly from this repository, or as a zip package (including additional documantation) from the [MOBA.coop](www.moba.coop) website. It comes in the form of an .ods file (OpenDocument Spreadsheet file).
+The tool can be downloaded directly from this repository, or as a zip package (including additional documantation) from the [MOBA.coop](https://www.moba.coop) website. It comes in the form of an .ods file (OpenDocument Spreadsheet file).
 
 You can open the .ods file with LibreOffice or any compatible tool.
 
@@ -46,7 +46,7 @@ You can report issues here on GitHub. If you need to contact the coordinators fo
 
 ## initial development
 
-OpenFRM has been initiated by [STEALTH.unlimited](www.stealth.ultd.net) and the team of [Ko Gradi Grad (Who Builds the City, Belgrade)](www.kogradigrad.org), and collectively tested and reviewed within the [MOBA network](www.moba.coop). [Creative Industries Fund NL](https://stimuleringsfonds.nl/en/) has provided funding to develop it as a tool for the wider community of emerging housing initiatives and co-operatives. It is open source, provided 'as-is', and you can tweak it to fit your purpose.
+OpenFRM has been initiated by [STEALTH.unlimited](www.stealth.ultd.net) and the team of [Ko Gradi Grad (Who Builds the City, Belgrade)](https://www.kogradigrad.org), and collectively tested and reviewed within the [MOBA network](https://www.moba.coop). [Creative Industries Fund NL](https://stimuleringsfonds.nl/en/) has provided funding to develop it as a tool for the wider community of emerging housing initiatives and co-operatives. It is open source, provided 'as-is', and you can tweak it to fit your purpose.
 
 
 
