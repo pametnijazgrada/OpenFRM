@@ -6,7 +6,9 @@ A powerful costs-calculation and life-cycle costs analysis (LCCA) tool – for d
 OpenFRM gives insight in the anticipated financial flows during the process of developing your building and throughout a 35-years period of running it. OpenFRM takes into account all costs of constructing, financing, owning and operating the building.
 
 • initial costs (starting up, design, acquisition / construction)
+
 • finance charges (loan interest payments etc.)
+
 • costs of operation, utilities (energy etc.) and maintenance
 
 The result is a collection of sheets detailing the different categories of costs, their chronological ordering as well as their implications during the lifespan of the building. As a result, it demonstrates  the costs of living for the period of 35 years for the different unit types proposed.
