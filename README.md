@@ -17,7 +17,7 @@ Initiating, constructing and operating a multi-apartment building is a daunting 
 
 ## how OpenFRM is installed
 
-The tool can be downloaded directly from this repository, or as a zip package (including additional documantation) from the [MOBA.coop](https://www.moba.coop) website. It comes in the form of an .ods file (OpenDocument Spreadsheet file).
+The tool can be downloaded directly from this repository, or as a zip package (including additional documantation) from the [MOBA.coop](http://www.moba.coop) website. It comes in the form of an .ods file (OpenDocument Spreadsheet file).
 
 You can open the .ods file with LibreOffice or any compatible tool.
 
