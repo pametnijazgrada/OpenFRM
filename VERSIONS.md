@@ -1,4 +1,3 @@
 OpenFRM-001
-online sice 2019-10-10
-
+online since 2019-10-10
 * first release
