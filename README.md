@@ -44,7 +44,7 @@ The stable release can be found in the "master" branch, while testing & developm
 
 OpenFRM is provided as-is. A manual is available at [MOBA.coop](https://www.moba.coop/).
 
-You can report issues here on GitHub. If you need to contact the coordinators for other reasons, use: openfrm@moba.coop
+You can open issues on GitHub. If you need to contact the coordinators for other reasons, use: openfrm@moba.coop
 
 ## initial development
 
