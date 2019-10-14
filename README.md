@@ -1,6 +1,8 @@
 # OpenFRM
 A powerful costs-calculation and life-cycle costs analysis (LCCA) tool – for developing, maintaining and operating multi-apartment buildings. It is primarily aimed at groups and communities that want to take the developement of their future housing environment into their own hands (but is not limited to this).
 
+<img src="IMG/landing_page.jpg" width="500">
+
 ## what this tool does
 
 OpenFRM gives insight in the anticipated financial flows during the process of developing your building and throughout a 35-years period of running it. OpenFRM takes into account all costs of constructing, financing, owning and operating the building.
@@ -28,7 +30,9 @@ You can open the .ods file with LibreOffice or any compatible tool.
 OpenFRM is built around a spreadsheet. When you open the file, you arrive at the landing page. In the menu bar in the bottom you will apart from the Landing Page find 6 different sections (“tabs”): Inputs / Outputs, Design, Build, Finance, Maintain & Operate and finally the Life Cycle Cost Analysis (LCCA). By clicking the different tabs, you can navigate through the document.
 With the Design and Build section you get an overview of the actual investment into the project, with Finance the structure and cost of capital, while Maintain & Operate brings you to the logic of keeping the building up & running on the long-term. The LCCA shows the cash-flow, financial performance and viability of your project over the long term.
 
-<img src="img/landing_page.jpg" width="500">
+<img src="IMG/landing_page.jpg" width="500">
+
+<img src="IMG/inputs-outputs.jpg" width="500">
 
 ## the use of input/output fields
 
@@ -37,6 +41,12 @@ Each of the 6 sections has fields that are marked in blue (your input required),
 ## expanding data fields
 
 Inside the 6 sections you will find that parts of the sheet may be summarized. In that case, a “+” sign will indicate that detailed information is available but has been collapsed. To expand such a collapsed part of a section, simply click the “+” sign.
+
+## LCCA
+
+The LCCA looks at the long-term performance of your building
+
+<img src="IMG/lcca.jpg" width="500">
 
 ## in which branch takes the development place
 
