@@ -30,9 +30,7 @@ You can open the .ods file with LibreOffice or any compatible tool.
 OpenFRM is built around a spreadsheet. When you open the file, you arrive at the landing page. In the menu bar in the bottom you will apart from the Landing Page find 6 different sections (“tabs”): Inputs / Outputs, Design, Build, Finance, Maintain & Operate and finally the Life Cycle Cost Analysis (LCCA). By clicking the different tabs, you can navigate through the document.
 With the Design and Build section you get an overview of the actual investment into the project, with Finance the structure and cost of capital, while Maintain & Operate brings you to the logic of keeping the building up & running on the long-term. The LCCA shows the cash-flow, financial performance and viability of your project over the long term.
 
-<img src="IMG/landing_page.jpg" width="500">
-
-<img src="IMG/inputs-outputs.jpg" width="500">
+<img src="IMG/inputs_outputs.jpg" width="500">
 
 ## the use of input/output fields
 
