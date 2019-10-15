@@ -63,13 +63,13 @@ Next, it may be interesting to move to the LCCA module (use the bottom tab). The
 
 If you want to step beyond the first try-out of your project, you can enter more realistic data about it. The categories in this form (“prep list”) provide a good start. They are organised per module. Not all modules are crucial at this stage to get an estimate - you can add more detail later. 
 
-## in which branch takes the development place
+## contributing to OpenFRM
 
 The stable release can be found in the "master" branch, while testing & development takes place in the "beta" branch.
 
 ## how to get help
 
-OpenFRM is provided as-is. A manual is available at [MOBA.coop](https://www.moba.coop/).
+OpenFRM is provided as-is. The wiki provides a more detailed manual.
 
 You can open issues on GitHub. If you need to contact the coordinators for other reasons, use: openfrm@moba.coop
 
