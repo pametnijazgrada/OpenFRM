@@ -1,4 +1,5 @@
-# OpenFRM
+# OpenFRM Quickstart Guide
+
 A powerful costs-calculation and life-cycle costs analysis (LCCA) tool – for developing, maintaining and operating multi-apartment buildings. It is primarily aimed at groups and communities that want to take the development of their future housing environment into their own hands (but is not limited to this).
 
 <img src="IMG/landing_page.jpg" width="500">
