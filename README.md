@@ -5,7 +5,7 @@ A powerful costs-calculation and life-cycle costs analysis (LCCA) tool – for d
 
 ## what this tool does
 
-OpenFRM gives insight in the anticipated financial flows during the process of developing your building and throughout a 35-years period of running it. OpenFRM takes into account all costs of constructing, financing, owning and operating the building.
+OpenFRM gives insight in the anticipated financial flows during the process of developing your building and throughout a 35-years period of running it. You can easily adapt it to meet the requirements of your own project. OpenFRM takes into account all costs of constructing, financing, owning and operating the building.
 
 • initial costs (starting up, design, acquisition / construction)
 
@@ -21,7 +21,7 @@ Initiating, constructing and operating a multi-apartment building is a daunting 
 
 ## how OpenFRM is installed
 
-The tool can be downloaded directly from this repository, or as a zip package (including additional documantation) from the [MOBA.coop](http://www.moba.coop) website. It comes in the form of an .ods file (OpenDocument Spreadsheet file).
+The tool can be downloaded directly from the GitHub repository, or as a zip package (including additional documentation) from the [MOBA.coop](http://www.moba.coop) website. It comes in the form of an .ods file (OpenDocument Spreadsheet file).
 
 You can open the .ods file with LibreOffice or any compatible tool.
 
