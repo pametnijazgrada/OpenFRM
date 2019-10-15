@@ -65,7 +65,7 @@ If you want to step beyond the first try-out of your project, you can enter more
 
 ## contributing to OpenFRM
 
-The stable release can be found in the "master" branch, while testing & development takes place in the "beta" branch.
+OpenFRM is developed and maintained on the platform GitHub. If you have suggestions, improvements or new functionality to add to OpenFRM, you can submit them there. The stable release can be found in the "master" branch, while testing & development takes place in the "beta" branch.
 
 ## how to get help
 
