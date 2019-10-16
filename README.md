@@ -62,7 +62,7 @@ Next, it may be interesting to move to the LCCA module (use the bottom tab). The
 
 ## What data do you need to prepare for a useful assessment?
 
-If you want to step beyond the first try-out of your project, you can enter more realistic data about it. The categories in this form (“prep list”) provide a good start. They are organised per module. Not all modules are crucial at this stage to get an estimate - you can add more detail later. 
+If you want to step beyond the first try-out of your project, you can enter more realistic data about it. The categories in this form (“OpenFRM-PREPLIST”) provide a good start. They are organised per module. Not all modules are crucial at this stage to get an estimate - you can add more detail later. 
 
 ## contributing to OpenFRM
 
