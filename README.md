@@ -38,7 +38,7 @@ Navigating to the Inputs – Outputs module, you can enter the data of your proj
 
 <img src="IMG/inputs_outputs.jpg" width="500">
 
-In the Inputs/Outputs module you start in the top (“inputs”) by indicating the scale of your multi-apartment building (m2, number of people, apartment size, etc.), indicate the deposit each of the households will provide (entry fee, this can be 0) and you choose the energy class of the building. If you have detailed information available about the typology of the building (different apartment sizes, etc.) you use and expand the “detailed apartment typology” section. Make sure to provide you inputs in the fields marked blue.
+In the Inputs – Outputs module you start in the top (“inputs”) by indicating the scale of your multi-apartment building (m2, number of people, apartment size, etc.), indicate the deposit each of the households will provide (entry fee, this can be 0) and you choose the energy class of the building. If you have detailed information available about the typology of the building (different apartment sizes, etc.) you use and expand the “detailed apartment typology” section. Make sure to provide you inputs in the fields marked blue.
 
 Navigating to the middle section (“outputs”), you will find the first results of the project you have provided. It will tell you what is the size of the investment, the basic structure of the capital required and will provide a break-down of the investment structure and operational costs.
 
