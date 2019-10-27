@@ -28,7 +28,7 @@ You can open the .ods file with LibreOffice or any compatible tool.
 
 ## the modules of the OpenFRM spreadsheet
 
-OpenFRM is built around a spreadsheet. When you open the file, you arrive at the landing page. In the menu bar in the bottom you will apart from the Landing Page find 6 different tabs (“modules”): Inputs / Outputs, Design, Build, Finance, Maintain & Operate and finally the Life Cycle Cost Analysis (LCCA). By clicking the different tabs, you can navigate through the modules.
+OpenFRM is built around a spreadsheet. When you open the tool, you arrive at the landing page. In the menu bar in the bottom you will apart from the Landing Page find 6 different tabs (“modules”): Inputs / Outputs, Design, Build, Finance, Maintain & Operate and finally the Life Cycle Cost Analysis (LCCA). By clicking the different tabs, you can navigate through the modules.
 
 With the Design and Build module you get an overview of the actual investment into the project, with Finance the structure and cost of capital, while Maintain & Operate brings you to the logic of keeping the building up & running on the long-term. The LCCA module shows the cash-flow, financial performance and viability of your project over the long term.
 
