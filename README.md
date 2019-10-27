@@ -34,7 +34,7 @@ With the Design and Build module you get an overview of the actual investment in
 
 ## getting started with your project
 
-Navigating to the Inputs/Outputs module, you can enter the date of your project. Important is to understand that you can use OpenFRM as a tool to design your project, or review different scenarios for it – not just to “validate” a well worked-out proposal. This means that with providing just a few parameters you will already be returned some basic insights in your project.
+Navigating to the Inputs – Outputs module, you can enter the data of your project. Important is to understand that you can use OpenFRM as a tool to design your project, or review different scenarios for it – not just to “validate” a well worked-out proposal. This means that with providing just a few parameters you will already be returned some basic insights in your project.
 
 <img src="IMG/inputs_outputs.jpg" width="500">
 
