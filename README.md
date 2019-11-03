@@ -2,7 +2,7 @@
 
 A powerful costs-calculation and life-cycle cost analysis (LCCA) tool – for developing, maintaining and operating multi-apartment buildings. It is primarily aimed at groups and communities that want to take the development of their future housing environment into their own hands (but is not limited to this).
 
-<img src="IMG/landing_page.png" width="500">
+<img src="IMG/landing_page.jpg" width="500">
 
 ## what this tool does
 
