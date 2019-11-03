@@ -58,7 +58,7 @@ Inside the 6 modules you will find that parts of the sheet may be summarized. In
 
 Next, it may be interesting to move to the LCCA module (use the bottom tab). There you will find a multi-year summary of the performance of your project. While the level of detail here at first might seem intimidating, you quite quickly can start understanding the relation between certain choices you make regarding the setup of your project, and the financial impact they have. This is of course also crucial to review if a project will perform well for the group of residents that will be using it!
 
-<img src="IMG/lcca.jpg" width="500">
+<img src="IMG/OpenFRM-LCCA.png" width="500">
 
 ## What data do you need to prepare for a useful assessment?
 
